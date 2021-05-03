@@ -1,0 +1,15 @@
+[
+    {
+        "Nombre": "Javier",
+        "Apellido": "Moreno Mattos",
+        "Lista de notas": [
+            14,
+            15,
+            13,
+            12
+        ],
+        "Nota mayor": 15,
+        "Nota menor": 12,
+        "Promedio del Alumno": 13
+    }
+]
